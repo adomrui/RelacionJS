@@ -1,0 +1,29 @@
+/************************************************/
+/*       ESTILO EJERCICIOS JS                   */
+/*       Ángel Domínguez Ruiz                   */
+/*                                              */
+/************************************************/
+
+/*****************GENERAL************************/
+body {
+    background-color: #fff; /* Fondo blanco */
+    color: #000; /* Texto negro */
+}
+
+.navbar {
+    background-color: #000; /* Fondo negro para la navbar */
+}
+
+.navbar .navbar-brand img {
+    filter: invert(1); /* Invierte el color de la imagen del logo para que se muestre en blanco */
+}
+
+#hero {
+    background-color: #000; /* Fondo negro para la sección hero */
+    color: #fff; /* Texto blanco */
+}
+
+#Tabla {
+    color: #000; /* Texto negro */
+    margin-top: 50px;
+}
